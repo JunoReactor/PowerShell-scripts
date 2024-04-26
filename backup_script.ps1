@@ -1,3 +1,5 @@
+# Если нужен ярлык,то в поле Объект указываем: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File "G:\Work\Upload\backup_script.ps1"
+
 # Путь к 7-Zip (предполагается, что 7-Zip установлен)
 $zipExe = "C:\Program Files\7-Zip\7z.exe"
 
